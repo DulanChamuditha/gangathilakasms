@@ -1,0 +1,11 @@
+{
+    "_readme": [
+        "This is a newly generated composer.lock file for Laravel 11 upgrade."
+    ],
+    "packages": [],
+    "packages-dev": [],
+    "platform": {
+        "php": "8.1.0"
+    },
+    "platform-overrides": {}
+}
